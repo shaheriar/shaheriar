@@ -2,9 +2,9 @@
 A creative and driven Computer Engineering student with a strong background in Frontend Development, C/C++ programming and electrical circuits. Interested in Aerospace, Artificial Intelligence as well as Embedded Systems and eager to work in a healthy team based environment that is equally as passionate and excited about building and creating new ways for people to connect with technology, and each other. 
 
 ## Stats
-![Stats](https://github-readme-stats.vercel.app/api?username=shaheriar&show_icons=true&count_private=true&theme=radical)
+![Stats](https://github-readme-stats.vercel.app/api?username=shaheriar&show_icons=true&count_private=true&theme=vue)
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=shaheriar&layout=compact&theme=radical)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=shaheriar&layout=compact&theme=vue)
 
 ![Java](https://img.shields.io/badge/-Java-black?style=flat-square&logo=java)
 ![C++](https://img.shields.io/badge/-C%2B%2B-black?style=flat-square&logo=c%2B%2B)
