@@ -8,6 +8,7 @@ A creative and driven Computer Engineering student with a strong background in F
 
 ![Java](https://img.shields.io/badge/-Java-black?style=flat-square&logo=java)
 ![C++](https://img.shields.io/badge/-C%2B%2B-black?style=flat-square&logo=c%2B%2B)
+![C](https://img.shields.io/badge/-Objective--C-black?style=flat-square&logo=c)
 ![Dart](https://img.shields.io/badge/-Dart-black?style=flat-square&logo=Dart)
 ![Flutter](https://img.shields.io/badge/-Flutter-black?style=flat-square&logo=Flutter)
 
