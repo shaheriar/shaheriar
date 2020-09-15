@@ -6,11 +6,11 @@ A creative and driven Computer Engineering student with a strong background in F
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=shaheriar&layout=compact&theme=vue)
 
-![Java](https://img.shields.io/badge/-Java-black?style=flat-square&logo=java)
-![C++](https://img.shields.io/badge/-C%2B%2B-black?style=flat-square&logo=c%2B%2B)
-![C](https://img.shields.io/badge/-Objective--C-black?style=flat-square&logo=c)
-![Dart](https://img.shields.io/badge/-Dart-black?style=flat-square&logo=Dart)
-![Flutter](https://img.shields.io/badge/-Flutter-black?style=flat-square&logo=Flutter)
+![C](https://img.shields.io/badge/-Objective--C-red?style=flat-square&logo=c)
+![Java](https://img.shields.io/badge/-Java-orange?style=flat-square&logo=java)
+![Flutter](https://img.shields.io/badge/-Flutter-lightblue?style=flat-square&logo=Flutter)
+![Dart](https://img.shields.io/badge/-Dart-blue?style=flat-square&logo=Dart)
+![C++](https://img.shields.io/badge/-C%2B%2B-darkblue?style=flat-square&logo=c%2B%2B)
 
 ## Links
 [![Linkedin Badge](https://img.shields.io/badge/-ShaheriarMalik-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/julianbeaulieu/)](https://www.linkedin.com/in/shaheriar)
