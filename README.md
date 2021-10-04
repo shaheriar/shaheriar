@@ -1,5 +1,5 @@
 ## About
-A creative and driven Computer Engineering student with a strong background in Machine Learning and Artificial Intelligence, Embedded Systems, and electrical circuits, but also likes to spend time making art and producing music. Eager to work in a healthy team based environment that is equally as passionate and excited about building and creating new ways for people to connect with technology, and each other.
+A creative and driven Computer Engineering student with a strong background in Machine Learning and Artificial Intelligence, Embedded Systems, and Robotics, but also likes to spend time making art and producing music. Eager to work in a healthy team based environment that is equally as passionate and excited about building and creating new ways for people to connect with technology, and each other.
 
 ## Stats
 ![Stats](https://github-readme-stats.vercel.app/api?username=shaheriar&title_color=539BF5&icon_color=1F6FEB&text_color=ADBAC7&bg_color=22272E&show_icons=true)
